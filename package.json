@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "jquery": "^2.1.4",
+    "require-css": "^0.1.8",
+    "requirejs": "^2.1.19"
+  }
+}
